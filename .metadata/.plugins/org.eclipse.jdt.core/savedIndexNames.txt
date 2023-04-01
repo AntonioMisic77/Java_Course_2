@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Antonio\OPRPP2-demonstracije\.metadata\.plugins\org.eclipse.jdt.core
+4197285597.index
+443892263.index
